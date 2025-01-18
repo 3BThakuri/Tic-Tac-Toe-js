@@ -16,7 +16,6 @@ A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ## Live Demo:- https://3bthakuri.github.io/Tic-Tac-Toe-js
 
 
-## How to Use
-1. Clone the repository:
+## Clone
    ```bash
    git clone https://3bthakuri.github.io/Tic-Tac-Toe-js/
