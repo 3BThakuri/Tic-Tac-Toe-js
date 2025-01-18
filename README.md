@@ -13,7 +13,12 @@ A fun and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ![Screenshot 2025-01-18 163422](https://github.com/user-attachments/assets/81cbe9b3-dd41-412c-9c3b-fd3cb965763c)
 
 
+
+
 ## Live Demo:- https://3bthakuri.github.io/Tic-Tac-Toe-js
+
+
+
 
 
 ## Clone
